@@ -1,6 +1,7 @@
 """2D tomograpgy example using entropy regularized optimal transport.
 
 This example uses a hand-phantom and needs the images in order to run.
+These images do not belong to the authors and are therefore not included.
 """
 
 import numpy as np

@@ -15,6 +15,8 @@ and other utilities.
 * Two scripts containing the two examples, and one script for post-processing
 some of the images for the hand-example.
 
+Note that the two hand images used in the article do not belong to the authors and are therefore not included.
+
 Installing and running the code
 -------------------------------
 Clone the repository and install ODL (version 0.6.0) and ASTRA (version 1.8).
@@ -28,11 +30,11 @@ After this, the scripts can be run using, e.g., spyder.
 
 Contact
 -------
-[Johan Karlsson](http://math.kth.se/~johan79), Associate Professor  
-Department of Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden  
-johan.karlsson@math.kth.se 
-
 [Axel Ringh](https://www.kth.se/profile/aringh), PhD student  
 Department of Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden  
 aringh@kth.se
+
+[Johan Karlsson](http://math.kth.se/~johan79), Associate Professor  
+Department of Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden  
+johan.karlsson@math.kth.se
 
