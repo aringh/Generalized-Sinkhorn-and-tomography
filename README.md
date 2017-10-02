@@ -3,7 +3,7 @@ Entropy-regularized optimal transport
 
 This repository contains the code for the article "Generalized Sinkhorn
 iterations for regularizing inverse problems using optimal mass transport" by
-J. Karlsson and A. Ringh.
+J. Karlsson and A. Ringh. To appear in SIAM Journal on Imaging Sciences. [arXiv:1612.02273](https://arxiv.org/abs/1612.02273).
 
 Contents
 --------
